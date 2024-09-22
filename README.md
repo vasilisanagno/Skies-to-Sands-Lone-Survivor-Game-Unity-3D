@@ -56,8 +56,8 @@ In addition to playing the game, you can explore the in-depth analysis of the ga
 - Game Design Analysis: Detailed analysis of the game's mechanics, challenges, and features.
   [Download .docx](GameDesignDocument.docx)
 
-- Game Design Overview: Detailed analysis of the game's mechanics, challenges, and features.
-[Download .pptx](Final Presentation.pptx)
+- Game Design Overview: A general overview of the game's mechanics, key challenges, and features.
+  [Download .pptx](Final%20Presentation.pptx)
 
 ## Game Walkthrough
 
