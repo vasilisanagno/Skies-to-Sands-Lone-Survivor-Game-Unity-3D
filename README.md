@@ -42,4 +42,4 @@ In **Skies to Sands: Lone Survivor**, players must balance survival and combat a
 
 ## Game Walkthrough
 
-[Watch a demo of the game below to see the gameplay in action](https://www.youtube.com/watch?v=EUESBDZUpU)
+[Watch a demo of the game below to see the gameplay in action](https://www.youtube.com/embed/EUUESBDZUpU)
