@@ -13,7 +13,7 @@
 
 ## Game Overview
 
-In **Skies to Sands: Lone Survivor**, players must balance survival and combat as they explore a hostile island filled with enemies, environmental hazards, and limited resources. The goal is to locate a radio in the enemy military base to call for help while avoiding wolves and enemy soldiers.
+In this game, players must balance survival and combat as they explore a hostile island filled with enemies, environmental hazards, and limited resources. The ultimate objective is to infiltrate an enemy hidden military base, find a radio, and signal for help, all while staying alive amidst wolves and hostile forces.
 
 ## Game Features
 
