@@ -61,4 +61,4 @@ In addition to playing the game, you can explore the in-depth analysis of the ga
 
 ## Game Walkthrough
 
-[Watch a demo of the game below to see the gameplay in action](https://www.youtube.com/embed/EUUESBDZUpU)
+[Watch a demo of the game to see the gameplay in action](https://www.youtube.com/embed/EUUESBDZUpU)
